@@ -1,0 +1,39 @@
+_repo: The-Declaration-of-the-Rights-of-Man-and-of-Citizens_29815
+_version: 0.1.0
+alternative_title: Erklärung der Menschen- und Bürgerrechte. English
+contributor:
+  translator:
+    agent_name: Farrand, Max
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '1093'
+    url: http://www.gutenberg.org/2009/agents/1093
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jellinek, Georg
+    alias: Iellinek, Georg
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '34192'
+    url: http://www.gutenberg.org/2009/agents/34192
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Jellinek
+description: ''
+gutenberg_issued: '2009-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29815'
+  lccn: 01008197
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JC'
+- !lcsh 'Natural law'
+- !lcsh 'Constitutional history -- United States'
+- !lcsh 'Constitutional history -- France'
+title: The Declaration of the Rights of Man and of Citizens
+url: http://www.gutenberg.org/ebooks/29815
